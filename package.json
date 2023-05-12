@@ -1,0 +1,25 @@
+{
+  "name": "nodejsyoutube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "04-names.js",
+  "scripts": {
+   "start":"node httpbasics.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NITHISHguviii/Nodejsyoutube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NITHISHguviii/Nodejsyoutube/issues"
+  },
+  "homepage": "https://github.com/NITHISHguviii/Nodejsyoutube#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
